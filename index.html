@@ -1,9 +1,35 @@
 <!DOCTYPE html>
 <html>
 <style>
-p.ex1 {
-  margin-right: 1000px;
+* {
+  box-sizing: border-box;
 }
+
+/* Create two equal columns that floats next to each other */
+.column1 {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.column2 {
+  float: left;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*width: 50%;*/
+}
+
 img {
   border-radius: 70%;
 }
@@ -12,15 +38,23 @@ img {
      <title>Raghav Gnanasambandam</title>
 </head>
 <body>
-<h1 style = "text-align:left;" >  Raghav</h1>
-<img src="me1.jpg" height = 200, width = 200, alt="Photo of Raghav">
-<p class ='ex1'><br> PhD student at Grado Department of Industrial and Systems Engineering, Virginia Tech
+
+<div class="row">
+<div class="column1" >
+<h1 style = "text-align:center;" >  Raghav</h1>
+<img src="me1.jpg" height = 200, width = 200, class = "center", alt="Photo of Raghav">
+<p style = "text-align:center;"><br> PhD student at Grado Department of Industrial and Systems Engineering, Virginia Tech
 <br> <a href="https://www.instagram.com/raghavg97">Instagram</a>
 <br> <a href="https://www.linkedin.com/in/raghav-g/">LinkedIn</a>
 <br> <a href="https://scholar.google.com/citations?user=H0FRgi4AAAAJ&hl=en">Google Scholar</a>
+</div>
 
-</p>
 
+<div class="column2" >
+
+<p> <h3 style = "text-align:left;" >  About</h3>  </p>
+Coming soon.. (Last updated March 25, 2021)</p>
+</div>
 
 </body>
 </html>
