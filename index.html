@@ -1,15 +1,33 @@
 <!DOCTYPE html>
 <html>
 <style>
+ a:link {
+  
+  color: #EB1CBD;
+}
+
+/* visited link */
+a:visited {
+  color: #D11BA8;
+}
+
+/* mouse over link */
+a:hover {
+  background-color: yellow;
+  border-radius: 7px;
+}
+
+/* selected link */
   .topnav {
-  background-color: #333;
+  background-color: #1420A9;
   overflow: hidden;
+
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -18,30 +36,36 @@
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: lightblue;
   color: black;
+  border-radius: 20px;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: blue;
   color: white;
+  border-radius: 20px;
 }
 
-* {
+/* {
   box-sizing: border-box;
 }
 
 /* Create two equal columns that floats next to each other */
 .column1 {
-  float: left;
+  float: right;
   width: 25%;
   padding: 10px;
+  background-color: #222222;
+  border-radius: 50px;
 }
 
 .column2 {
   float: left;
   padding: 10px;
+  font-size: 16 px;
+  
 }
 
 /* Clear floats after the columns */
@@ -68,11 +92,11 @@ img {
 <head>
      <title>Raghav Gnanasambandam</title>
 </head>
-<body>
+<body style="background-color: black; color: white">
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="C:/Users/gragh/OneDrive - Virginia Tech/Lenovo Laptop/Documents/GitHub/raghavg97.github.io/projects.html">Projects</a>
+  <a href="C:\Users\gragh\OneDrive - Virginia Tech\Documents\GitHub\raghavg97.github.io\projects.html">Projects</a>
   <a href="#publications">Publications</a>
   <a href="#CV">CV</a>
   <a href="#about">About</a>
@@ -81,7 +105,7 @@ img {
 
 
 <div class="row">
-<div class="column1" >
+<div class="column1">
 <h1 style = "text-align:center;" >  Raghav</h1>
 <img src="me1.jpg" height = 200, width = 200, class = "center", alt="Photo of Raghav">
 <p style = "text-align:center;"><br> PhD student at Grado Department of Industrial and Systems Engineering, Virginia Tech
@@ -108,7 +132,7 @@ img {
 
 
 <div class="bottom">
-<p><i>Last updated on March 25,2021 </i></p>
+<p><i>Last updated on June 21,2021 </i></p>
 
 </div>
 
