@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghav Gnanasambandam"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Raghav Gnanasambandam"
 description              : &description "PhD Student at Virginia Tech"
