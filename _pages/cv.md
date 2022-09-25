@@ -51,10 +51,10 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% [include archive-single-cv.html](http://raghavg97.github.io/files/paper3.pdf) %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-* http://raghavg97.github.io/files/paper3.pdf
+
