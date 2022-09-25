@@ -57,3 +57,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+* http://raghavg97.github.io/files/paper3.pdf
