@@ -1,5 +1,5 @@
 ---
-title: ". Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions"
+title: "Deep Gaussian Process Upper Confidence Bound for Optimizing Non-Stationary Functions"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/informs2021-DGPUCB
