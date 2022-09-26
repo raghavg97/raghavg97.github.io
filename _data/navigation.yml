@@ -10,7 +10,7 @@ main:
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://blogs.tlos.vt.edu/raghav/
     
   - title: "CV"
     url: http://raghavg97.github.io/files/Raghav_CV.pdf
