@@ -8,15 +8,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://raghavg97.github.io/files/Raghav_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
