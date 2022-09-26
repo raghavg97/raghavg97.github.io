@@ -50,9 +50,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% [include http://raghavg97.github.io/files/paper3.pdf] %}
-  {% endfor %}</ul>
+[Download paper here](https://doi.org/10.1115/1.4045719)
   
 Service and leadership
 ======
