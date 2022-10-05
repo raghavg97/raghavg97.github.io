@@ -21,7 +21,7 @@ My research mainly focuses on machine learning and optimization techniques for a
 * Additive Manufacturing
 
  
-Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. 
+Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in 2024 and I am looking for a career in academia. 
 
 
 
