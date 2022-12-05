@@ -21,7 +21,8 @@ My research mainly focuses on machine learning and optimization techniques for a
 * Bayesian Optimization
 * Federated Learning
 * Additive Manufacturing
-* 
+
+
 **Education**
 * Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
 * PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
