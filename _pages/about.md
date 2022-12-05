@@ -15,6 +15,7 @@ Hello, this is Raghav. I am currently PhD candidate working on machine learning 
 3. Won the first place in Informs DMDA Workshop [poster](https://youtu.be/d1H4mJipNxY) competition. Oct 2022. 
 
 **Research Interests**
+
 My research mainly focuses on machine learning and optimization techniques for advanced manufacturing including (but not limited to)
 * Deep Gaussian Process
 * Physics Informed Neural Networks 
