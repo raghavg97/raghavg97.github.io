@@ -7,26 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in May 2024. 
+Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in May 2024. I am looking for a career in Academia.
 
 **Recent Highlights**
 1. [NVIDIA](https://docs.nvidia.com/deeplearning/modulus/user_guide/theory/advanced_schemes.html?highlight=stan) has implemented, verified, and cited the [Stan Activation Function](https://arxiv.org/abs/2204.12589?context=cs.NE) for Physics-Informed Neural Networks. Nov 2022.
 2. Got inducted in Graduate Academy of Teaching Excellence ([GrATE](http://vtgrate.org/)). Nov 2022.
 3. Won the first place in Informs DMDA Workshop [poster](https://youtu.be/d1H4mJipNxY) competition. Oct 2022. 
 
-
-**Education**
-* Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
-* PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
-
-My research mainly focuses on machine learning and optimization techniques for advanced manufacturing. 
-
 **Research Interests**
+My research mainly focuses on machine learning and optimization techniques for advanced manufacturing including (but not limited to)
 * Deep Gaussian Process
 * Physics Informed Neural Networks 
 * Bayesian Optimization
 * Federated Learning
 * Additive Manufacturing
+* 
+**Education**
+* Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
+* PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
+
+
+
+
 
 
 
