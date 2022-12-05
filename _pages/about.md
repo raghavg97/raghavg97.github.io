@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 **Education**
-* Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, IIT Madras, 2014 - 2019
-* PhD in Industrial and Systems Engineering, Virginia Tech, 2019 - Present 
+* Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
+* PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
 
 My research mainly focuses on machine learning and optimization techniques for advanced manufacturing. 
 
@@ -21,7 +21,7 @@ My research mainly focuses on machine learning and optimization techniques for a
 * Additive Manufacturing
 
  
-Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in 2024 and I am looking for a career in academia. 
+Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in 2024. 
 
 
 
