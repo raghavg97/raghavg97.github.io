@@ -11,8 +11,9 @@ Hello, this is Raghav. I am currently PhD candidate working on machine learning 
 
 **Recent Highlights**
 1. Awarded **Outstanding Doctoral Student of the Year** by [ISE at Virginia Tech](https://www.ise.vt.edu/). Apr 2023.  
-2. [NVIDIA](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/theory/advanced_schemes.html) has implemented, verified, and cited the [Stan Activation Function](https://arxiv.org/abs/2204.12589?context=cs.NE) for Physics-Informed Neural Networks. Nov 2022.
-3. Won the first place in Informs DMDA Workshop [poster](https://youtu.be/d1H4mJipNxY) competition. Oct 2022. 
+2. Won the first position in IISE QCRE ProcessMiner Data Challenge Competition. May 2023. 
+3. [NVIDIA](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/theory/advanced_schemes.html) has implemented, verified, and cited the [Stan Activation Function](https://arxiv.org/abs/2204.12589?context=cs.NE) for Physics-Informed Neural Networks. Nov 2022.
+
 
 **Research Interests**
 
