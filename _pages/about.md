@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in May 2024. I am looking for a career in Academia.
+Hello, this is Raghav. I am currently PhD candidate working on machine learning and optimization techniques for applications in Additive Manufacturing. I am expected to graduate in May 2024. I am looking for a career in academia. Please reach out to me via raghavg@vt.edu.
 
 **Recent Highlights**
 1. Awarded **Outstanding Doctoral Student of the Year** by [ISE at Virginia Tech](https://www.ise.vt.edu/). Apr 2023.  
