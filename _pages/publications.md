@@ -7,7 +7,7 @@ author_profile: true
 
 # Journal Publications [(Google Scholar Profile)](https://scholar.google.com/citations?user=H0FRgi4AAAAJ&hl=en)
 ## Published/Accepted 
-1. <b><ins>Raghav Gnanasambandam</ins></b>, Bo Shen, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:Maroon">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b>  Under review at  <i>IEEE TPAMI</i> (2022). <br>[[Preprint]](https://arxiv.org/abs/2204.12589) 
+1. <b><ins>Raghav Gnanasambandam</ins></b>, Bo Shen, Jihoon Chung, Xubo Yue, and Zhenyu (James) Kong. <b><span style="color:Maroon">Self-scalable Tanh (Stan): Faster Convergence and Better Generalization in Physics-informed Neural Networks.</span></b> <i>IEEE TPAMI</i> (Impact Factor 23.6) (2022). <br>[[Preprint]](https://arxiv.org/abs/2204.12589) 
     *  <span style="color: Tomato"> **Winner for INFORMS Data Mining and Decision Analytics Workshop Poster Competition (2022)**  </span> 
     *  <span style="color: Tomato"> **Winner for IISE QCRE/ProcessMiner Data Challenge Competition (2022)**  </span>  
 
