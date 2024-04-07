@@ -7,14 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, this is Raghav. I am joining as an Assistant Professor of Industrial and Manufacturing Engineering (IME) at [**FAMU-FSU College of Engineering**](https://eng.famu.fsu.edu/ime) in August 2024. My research broadly involves developing physics-informed machine-learning techniques. I have [**two funded positions**] open for students interested in doing a PhD. A background in Industrial or Production Engineering, Manufacturing Engineering, Mechanical Engineering, or any related discipline is preferred. Exposure to Machine Learning/Statistics/Data Science with an interest in math and coding is a big plus. Please reach out to me via raghavg@vt.edu.
+Hello, this is Raghav. I am joining as an Assistant Professor of Industrial and Manufacturing Engineering (IME) at [**FAMU-FSU College of Engineering**](https://eng.famu.fsu.edu/ime) in August 2024. My research broadly involves developing physics-informed machine-learning techniques. I have **two funded positions** open for students interested in doing a PhD. A background in Industrial or Production Engineering, Manufacturing Engineering, Mechanical Engineering, or any related discipline is preferred. Exposure to Machine Learning/Statistics/Data Science with an interest in math and coding is a big plus. Please reach out to me via raghavg@vt.edu.
 
 **Research Interests**
 
-My research mainly focuses on machine learning and optimization techniques for advanced manufacturing including (but not limited to)
-* Deep Gaussian Process
-* Physics Informed Neural Networks 
-* Bayesian Optimization
+My research mainly focuses on machine learning and optimization techniques for advanced manufacturing, including (but not limited to)
+* Active Learning/Sequential Design
+* Physics-informed Machine Learning
 * Digital Twins
 * Additive Manufacturing
 
