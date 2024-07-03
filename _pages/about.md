@@ -11,7 +11,7 @@ Welcome to the M2M Lab, where Math meets Manufacturing.
 
 **Notice Board**
 
-I will join [**FAMU-FSU College of Engineering**](https://eng.famu.fsu.edu/ime) as an assistant professor of Industrial and Manufacturing Engineering (IME) in August 2024. My research contributes to improving manufacturing via analytical techniques. I am seeking a PhD student with a Mechanical/Manufacturing/Industrial Engineering background. Please reach out to me via raghavg@vt.edu.
+I will join [**FAMU-FSU College of Engineering**](https://eng.famu.fsu.edu/ime) as an assistant professor of Industrial and Manufacturing Engineering (IME) in August 2024. My research contributes to improving manufacturing via analytical techniques. I am seeking a PhD student with a Mechanical/Manufacturing/Industrial Engineering background. Please reach out to me via raghavg@vt.edu. - Raghav 
 
 **Research at M2M**
 
@@ -29,10 +29,6 @@ Current research mainly focuses on machine learning and optimization techniques 
 **Education**
 * Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
 * PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
-
-
-
-
 
 
 
