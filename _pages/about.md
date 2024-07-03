@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to the M2M Lab, where Math meets Manufacturing.  
+Welcome to the **M2M Lab**, where Math meets Manufacturing.  
 
 **Notice Board**
 
