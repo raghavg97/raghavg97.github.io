@@ -7,30 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, this is Raghav. I am joining as an Assistant Professor of Industrial and Manufacturing Engineering (IME) at [**FAMU-FSU College of Engineering**](https://eng.famu.fsu.edu/ime) in August 2024. My research broadly involves developing physics-informed machine-learning techniques. I have **two funded positions** open for students interested in doing a PhD. A background in Industrial or Production Engineering, Manufacturing Engineering, Mechanical Engineering, or any related discipline is preferred. Exposure to Machine Learning/Statistics/Data Science with an interest in math and coding is a big plus. Please reach out to me via raghavg@vt.edu.
+Welcome to the M2M Lab, where Math meets Manufacturing.  
 
-**Research Interests**
+**Notice Board**
+I will join [**FAMU-FSU College of Engineering**](https://eng.famu.fsu.edu/ime) as an assistant professor of Industrial and Manufacturing Engineering (IME) in August 2024. My research contributes to improving manufacturing via analytical techniques. I am looking for a PhD student with a Mechanical Engineering/Manufacturing Engineering background. Please reach out to me via raghavg@vt.edu.
 
-My research mainly focuses on machine learning and optimization techniques for advanced manufacturing, including (but not limited to)
+**Research at M2M**
+Current research mainly focuses on machine learning and optimization techniques for advanced manufacturing, including (but not limited to)
 * Active Learning/Sequential Design
 * Physics-informed Machine Learning
 * Digital Twins
 * Additive Manufacturing
 
 **Recent Highlights**
-1. Awarded **Outstanding Doctoral Student of the Year** by [ISE at Virginia Tech](https://www.ise.vt.edu/). Apr 2023.  
-2. Won the first position in IISE QCRE ProcessMiner Data Challenge Competition. May 2023. 
-3. [NVIDIA](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/theory/advanced_schemes.html) has implemented, verified, and cited the [Stan Activation Function](https://arxiv.org/abs/2204.12589?context=cs.NE) for Physics-Informed Neural Networks. Nov 2022.
+1. Awarded **Outstanding Doctoral Student of the Year** by [ISE at Virginia Tech](https://www.ise.vt.edu/). Apr 2023.   
+2. [NVIDIA](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/theory/advanced_schemes.html) has implemented, verified, and cited the [Stan Activation Function](https://arxiv.org/abs/2204.12589?context=cs.NE) for Physics-Informed Neural Networks. Nov 2022.
 
 **Education**
 * Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
-* PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
-
-
-
-
-
-
+* PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - 2024.
 
 
 <!-- of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
