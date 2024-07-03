@@ -1,17 +1,26 @@
 # main links links
 main:
+  - title: "People"
+    url: /people/
+
+  - title: "Research"
+    url: /research/    
+
   - title: "Publications"
     url: /publications/
+
+  - title: "Contact"
+    url: /contact/
 
   # - title: "Talks"
   # url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
         
   # - title: "Blog Posts"
   # url: https://blogs.tlos.vt.edu/raghav/
     
-  - title: "CV (PDF)"
-    url: http://raghavg97.github.io/files/Academic_CV_master.pdf
+  #- title: "CV (PDF)"
+  #  url: http://raghavg97.github.io/files/Academic_CV_master.pdf
     
