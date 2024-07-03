@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M2M Lab (FAMU-FSU College of Engineering)"
+title                    : "M2M Lab"
 title_separator          : "-"
-name                     : &name "Raghav Gnanasambandam"
-description              : &description "PhD Student at Virginia Tech"
+name                     : &name "Math-to-Manufacturing Lab"
+description              : &description "Research Lab"
 url                      : https://raghavg97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raghavg97/raghavg97.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Math-to-Manufacturing"
   avatar           : "M2M.png"
-  bio              : "Research Lab"
+  bio              : "Research Lab at FAMU-FSU College of Engineering"
   location         : "Tallahassee, FL, US"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=H0FRgi4AAAAJ&hl=en"
+  googlescholar    : 
   email            :  "raghavg@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "raghav-g"
-  orcid            : "https://orcid.org/0009-0004-2159-4837"
+  linkedin         :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
