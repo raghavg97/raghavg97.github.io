@@ -6,11 +6,14 @@ main:
   - title: "Research"
     url: /research/    
 
-  - title: "Publications"
-    url: /publications/
-
+  #- title: "Publications"
+   # url: /publications/
+   
   - title: "Contact"
     url: /contact/
+
+  - title: "Miscellaneous"
+    url: /misc/    
 
   # - title: "Talks"
   # url: /talks/    
