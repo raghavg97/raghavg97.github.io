@@ -26,13 +26,6 @@ Current research mainly focuses on machine learning and optimization techniques 
 2. [NVIDIA](https://docs.nvidia.com/deeplearning/modulus/modulus-v2209/user_guide/theory/advanced_schemes.html) has implemented, verified, and cited the [Stan Activation Function](https://arxiv.org/abs/2204.12589?context=cs.NE) for Physics-Informed Neural Networks. Nov 2022.
 
 
-**Education**
-* Dual Degree (B.Tech and M.Tech) in Mechanical Engineering, <b>IIT Madras</b>, 2014 - 2019.
-* PhD in Industrial and Systems Engineering, <b>Virginia Tech</b>, 2019 - Present.
-
-
-
-
 <!-- of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
