@@ -8,12 +8,14 @@ main:
 
   #- title: "Publications"
    # url: /publications/
+
+    - title: "Miscellaneous"
+    url: /misc/   
    
   - title: "Contact"
     url: /contact/
 
-  - title: "Miscellaneous"
-    url: /misc/    
+  
 
   # - title: "Talks"
   # url: /talks/    
