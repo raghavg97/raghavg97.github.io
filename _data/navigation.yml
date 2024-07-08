@@ -9,7 +9,7 @@ main:
   #- title: "Publications"
    # url: /publications/
 
-    - title: "Miscellaneous"
+  - title: "Miscellaneous"
     url: /misc/   
    
   - title: "Contact"
