@@ -8,10 +8,13 @@ author_profile: true
 
 
 **Raghav Gnanasambandam** 
-Assistant Professor 
+
+Assistant Professor
+
 <img src="http://raghavg97.github.io/images/DSC03082.jpg" alt="Raghav" width="200"/>
 
 Email: raghavg@vt.edu 
+
 Research Interests: Scientific Machine Learning and Manufacturing 
 
 **Education**
