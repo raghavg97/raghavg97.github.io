@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**This page is no longer maintained (as of August 2024)** Please visit [this new page](https://marsh-radius-2e2.notion.site/M2M-Lab-9d7f3211c08b4585b107626ee874b478).
+
 Welcome to the M2M Lab, where Math helps Manufacturing.  
 
 **Notice Board**
